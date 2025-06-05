@@ -18,8 +18,13 @@ Each dataset contains three images, three ground truth depth maps, and a JSON fi
 Four separate programs are provided for calibrated, uncalibrated, and partially calibrated (pose estimation) reconstruction, as well as depth map visualization.
 
 Each program allows you to change the dataset and observe how camera pose affects the accuracy of 3D reconstruction.
+## Installation
 
-
+```bash
+git clone https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images.git 3DFace
+cd 3DFace
+pip install -r requirements.txt
+---
 ## 🔽 Downloadable 3D Models
 
 ### ✅ Calibrated
