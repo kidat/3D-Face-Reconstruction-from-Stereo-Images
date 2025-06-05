@@ -2,7 +2,7 @@
 
 This project focuses on 3D face reconstruction from stereo images under three calibration scenarios: fully calibrated, partially calibrated, and uncalibrated.
 
-A calibrated 3D scene was set up in Blender with three cameras capturing the face from left, front, and right angles. The front camera remained fixed as a reference, while the side cameras varied in pose across four configurations to evaluate the effects of rotation and translation on reconstruction.
+A calibrated 3D face was set up in Blender with three cameras capturing the face from left, front, and right angles. The front camera remained fixed as a reference, while the side cameras varied in pose across four configurations to evaluate the effects of rotation and translation on reconstruction.
 
 ## Calibration Setups
 
