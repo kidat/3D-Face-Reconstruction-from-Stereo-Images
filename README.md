@@ -19,21 +19,21 @@ Four separate programs are provided for calibrated, uncalibrated, and partially 
 
 Each program allows you to change the dataset and observe how camera pose affects the accuracy of 3D reconstruction.
 
+
 ## 🔽 Downloadable 3D Models
 
-### Calibrated
-- [Calibrated_reconstruction.ply](output/calibrated/Calibrated_reconstruction.ply)
-- [Calibrated_reconstruction_textured.obj](output/calibrated/Calibrated_reconstruction_textured.obj)
+### ✅ Calibrated
+- [Calibrated_reconstruction.ply](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/calibrated/Calibrated_reconstruction.ply)
+- [Calibrated_reconstruction_textured.obj](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/calibrated/Calibrated_reconstruction_textured.obj)
 
-### Depth Map
-- [DepthMap.ply](output/depthmap/DepthMap.ply)
+### 🌐 Depth Map
+- [DepthMap.ply](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/depthmap/DepthMap.ply)
 
-### Partial Calibration (Pose Estimation)
-- [Reconstruction_pose.ply](output/partial%20calibrated/Reconstruction_pose.ply)
-- [textured_mesh_pose.ply](output/partial%20calibrated/textured_mesh_pose.ply)
+### 📍 Partial Calibration (Pose Estimation)
+- [Reconstruction_pose.ply](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/partial%20calibrated/Reconstruction_pose.ply)
+- [textured_mesh_pose.ply](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/partial%20calibrated/textured_mesh_pose.ply)
 
-### Uncalibrated
-- [reconstruction.ply](output/uncalibrated/reconstruction.ply)
+### 🚫 Uncalibrated
+- [reconstruction.ply](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/uncalibrated/reconstruction.ply)
 
 > 💡 You can view these files using [MeshLab](https://www.meshlab.net/), [CloudCompare](https://www.danielgm.net/cc/), or any 3D viewer that supports `.ply` or `.obj`.
-
