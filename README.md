@@ -19,11 +19,9 @@ Four separate programs are provided for calibrated, uncalibrated, and partially 
 
 Each program allows you to change the dataset and observe how camera pose affects the accuracy of 3D reconstruction.
 ## Installation
-
-```bash
-git clone https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images.git 3DFace
-cd 3DFace
-pip install -r requirements.txt
+- `git clone https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images.git 3DFace`
+- `cd 3DFace`
+- `pip install -r requirements.txt`
 
 ## 🔽 Downloadable 3D Models
 
