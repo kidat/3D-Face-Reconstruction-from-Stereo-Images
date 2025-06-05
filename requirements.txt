@@ -1,1 +1,9 @@
+open3d
+numpy
+opencv-python
+pyexr
+scipy
+matplotlib
+numba
+scikit-learn
 
