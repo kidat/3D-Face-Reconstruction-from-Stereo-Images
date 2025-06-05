@@ -24,7 +24,7 @@ Each program allows you to change the dataset and observe how camera pose affect
 git clone https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images.git 3DFace
 cd 3DFace
 pip install -r requirements.txt
----
+
 ## 🔽 Downloadable 3D Models
 
 ### ✅ Calibrated
