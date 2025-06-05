@@ -23,7 +23,7 @@ Each program allows you to change the dataset and observe how camera pose affect
 - `cd 3DFace`
 - `pip install -r requirements.txt`
 
-## 🔽 Downloadable 3D Models
+## 🔽 Downloadable 3D Face Result Examples 
 
 ### ✅ Calibrated
 - [Calibrated_reconstruction.ply](https://github.com/kidat/3D-Face-Reconstruction-from-Stereo-Images/raw/master/output/calibrated/Calibrated_reconstruction.ply)
